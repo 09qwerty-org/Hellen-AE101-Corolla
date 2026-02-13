@@ -12115,6 +12115,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8598"
+			(at 44.45 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c12e8df-5587-43b8-865b-775e96e391ad")
 		)
@@ -12177,6 +12186,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4033814"
 			(at 81.28 175.26 0)
 			(effects
 				(font
@@ -12386,6 +12404,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 342.9 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E3"
 			(uuid "ecec4d9d-46fb-4f4f-8af3-cd1604e2512e")
 		)
@@ -12456,6 +12483,15 @@
 		)
 		(property "Description" ""
 			(at 64.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C222209"
+			(at 67.31 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12673,6 +12709,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 256.54 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 256.54 46.99 0)
 			(effects
 				(font
@@ -13001,6 +13046,15 @@
 		)
 		(property "Description" ""
 			(at 64.77 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C222209"
+			(at 67.31 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13541,6 +13595,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 38.1 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14207,6 +14270,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 167.64 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -15036,6 +15108,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 355.6 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d96a8683-3904-40e1-90c6-58375f9d8047")
 		)
@@ -15096,6 +15177,15 @@
 		)
 		(property "Description" ""
 			(at 64.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C222209"
+			(at 67.31 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15183,6 +15273,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4033814"
 			(at 90.17 176.53 0)
 			(effects
 				(font
@@ -15391,6 +15490,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 311.15 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "W2"
 			(uuid "bdbc0062-b674-40f7-ae7c-6fac48b79ac2")
 		)
@@ -15476,6 +15584,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4033814"
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "961430c5-de21-40f2-acfc-2b160561d520")
 		)
@@ -15538,6 +15655,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4033814"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -15683,6 +15809,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4033814"
+			(at 90.17 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8341a498-5b58-4dbf-a615-e85839f9da07")
 		)
@@ -15745,6 +15880,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 250.19 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105872"
 			(at 250.19 130.81 0)
 			(effects
 				(font
@@ -15919,6 +16063,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 124.46 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -16356,6 +16509,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8598"
+			(at 44.45 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d0535b17-503c-47c6-bfcc-66eadf262348")
 		)
@@ -16483,6 +16645,15 @@
 		)
 		(property "Description" ""
 			(at 64.77 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C222209"
+			(at 67.31 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16645,6 +16816,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8598"
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4bce1044-d343-4f79-af5f-b8db87dd81a2")
 		)
@@ -16780,6 +16960,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C222209"
+			(at 54.61 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "4b4c2c92-e656-4cf0-9cd2-050192d5a3fa")
 		)
@@ -16868,6 +17057,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8598"
+			(at 31.75 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "493d5c53-c40e-4f90-ae7a-56c9aa8039af")
 		)
@@ -16930,6 +17128,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 31.75 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8598"
 			(at 31.75 80.01 0)
 			(effects
 				(font
@@ -17075,6 +17282,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C105872"
+			(at 259.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "577d8b68-6d2f-411a-82d6-fa058ef2be29")
 		)
@@ -17203,6 +17419,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4033814"
 			(at 90.17 149.86 0)
 			(effects
 				(font
@@ -17615,6 +17840,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4033814"
+			(at 81.28 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "26312536-7421-4d59-bf25-07a9b74176e4")
 		)
@@ -17677,6 +17911,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 31.75 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8598"
 			(at 31.75 135.89 0)
 			(effects
 				(font
@@ -17820,6 +18063,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 311.15 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G"
 			(uuid "136c843e-424b-4b06-87e4-bcb60d7951de")
 		)
@@ -17896,6 +18148,15 @@
 		)
 		(property "Description" ""
 			(at 52.07 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C222209"
+			(at 54.61 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18116,6 +18377,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 31.75 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8598"
 			(at 31.75 162.56 0)
 			(effects
 				(font
@@ -18592,6 +18862,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 316.23 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "V4"
 			(uuid "d896c893-8474-4a50-9ed5-f3f7445de724")
 		)
@@ -18748,6 +19027,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4033814"
 			(at 81.28 92.71 0)
 			(effects
 				(font
@@ -19292,6 +19580,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8598"
+			(at 44.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ee23d083-4fd7-43fa-a4ae-9aed8eb2462e")
 		)
@@ -19418,6 +19715,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 276.86 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 276.86 118.11 0)
 			(effects
 				(font
@@ -19658,6 +19964,15 @@
 			)
 		)
 		(property "Description" "Hellen-One CAN Module"
+			(at 256.54 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 256.54 19.05 0)
 			(effects
 				(font
