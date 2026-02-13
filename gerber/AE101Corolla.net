@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/runner/work/hellen-E101-Corolla-PNP/hellen-E101-Corolla-PNP/AE101Corolla.kicad_sch</source>
+    <date>2026-02-13T03:19:35+0000</date>
+    <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AE101Corolla.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96c140c8-99dc-40b1-a087-e6c57027fc1c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>927784c3-7d6a-4358-a700-e6b0733e12ed</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b471f6-35bf-4d97-8f34-c6f636daa4a8</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a884c19-0aa2-41c2-bd50-8e65256b252f</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b83a6f78-63d2-4471-9329-9df44e673aec</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c15a8cd5-bf28-4616-a756-2fb6b268a214</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00e557bc-3a60-41e0-a641-7d12e0b731de</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8df4b93-f6e5-4054-a84d-80662e111e3c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>175448-6</value>
+      <footprint>175448-6:1754486</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/175448-6.pdf</datasheet>
+      <description>Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect</description>
+      <fields>
+        <field name="Height">22.2</field>
+        <field name="Mouser Part Number">571-175448-6</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/175448-6?qs=NCjoA4VtBPkeI%2FZa8OXhLg%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">175448-6</field>
+        <field name="Footprint">175448-6:1754486</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/175448-6.pdf</field>
+        <field name="Description">Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect</field>
+      </fields>
+      <libsource lib="175448-6" part="175448-6_1" description="Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect"/>
+      <property name="Height" value="22.2"/>
+      <property name="Mouser Part Number" value="571-175448-6"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/175448-6?qs=NCjoA4VtBPkeI%2FZa8OXhLg%3D%3D"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="175448-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>304db41b-a06e-495b-ad65-576ad4e4f552</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>6437288-2</value>
+      <footprint>superseal_34:TE_6437288-2</footprint>
+      <fields>
+        <field name="COMMENT">6437288-2</field>
+        <field name="MF">TE Connectivity</field>
+        <field name="DESCRIPTION">Conn Wire to Board RCP 34 POS 1.5mm Solder RA Thru-Hole Automotive Tube</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="TE_PURCHASE_URL">https://www.te.com/usa-en/product-6437288-2.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493</field>
+        <field name="PARTREV">A1</field>
+        <field name="MP">6437288-2</field>
+        <field name="EU_ROHS_COMPLIANCE">Compliant</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="Footprint">superseal_34:TE_6437288-2</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="6437288-2" part="6437288-2" description="Conn Wire to Board RCP 34 POS 1.5mm Solder RA Thru-Hole Automotive Tube"/>
+      <property name="COMMENT" value="6437288-2"/>
+      <property name="MF" value="TE Connectivity"/>
+      <property name="DESCRIPTION" value="Conn Wire to Board RCP 34 POS 1.5mm Solder RA Thru-Hole Automotive Tube"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="TE_PURCHASE_URL" value="https://www.te.com/usa-en/product-6437288-2.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493"/>
+      <property name="PARTREV" value="A1"/>
+      <property name="MP" value="6437288-2"/>
+      <property name="EU_ROHS_COMPLIANCE" value="Compliant"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8079df2d-c260-4234-ba4d-c06f631736fc</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>USB_C_Receptacle_USB2.0_14P</value>
+      <footprint>Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <description>USB 2.0-only 14P Type-C Receptacle connector</description>
+      <fields>
+        <field name="Footprint">Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">USB 2.0-only 14P Type-C Receptacle connector</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0_14P" description="USB 2.0-only 14P Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9869471-249f-4194-8fe1-4320490a1de9</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c327da7-1019-40dd-88e7-d240629e9002</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Module-mega-mcu144-0.7</value>
+      <footprint>megamcu144:mega-mcu144</footprint>
+      <description>Hellen One MEGA_MCU144 Module</description>
+      <fields>
+        <field name="PUBLISHER">qwerty-off</field>
+        <field name="SUPPLIER PART NUMBER 1">*</field>
+        <field name="SUPPLIER PART NUMBER 2">*</field>
+        <field name="SUPPLIER 1">Mouser</field>
+        <field name="SUPPLIER 2">Digi-Key</field>
+        <field name="FITTED">False</field>
+        <field name="PACKAGEREFERENCE"/>
+        <field name="SUPPLIER 3">LCSC</field>
+        <field name="SUPPLIER PART NUMBER 3"/>
+        <field name="TYPE">Module</field>
+        <field name="Footprint">megamcu144:mega-mcu144</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen One MEGA_MCU144 Module</field>
+      </fields>
+      <libsource lib="mega-mcu144" part="Module-mega-mcu144-0.7" description="Hellen One MEGA_MCU144 Module"/>
+      <property name="PUBLISHER" value="qwerty-off"/>
+      <property name="SUPPLIER PART NUMBER 1" value="*"/>
+      <property name="SUPPLIER PART NUMBER 2" value="*"/>
+      <property name="SUPPLIER 1" value="Mouser"/>
+      <property name="SUPPLIER 2" value="Digi-Key"/>
+      <property name="FITTED" value="False"/>
+      <property name="PACKAGEREFERENCE" value=""/>
+      <property name="SUPPLIER 3" value="LCSC"/>
+      <property name="SUPPLIER PART NUMBER 3" value=""/>
+      <property name="TYPE" value="Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU144_0.7"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>512b6efb-7549-4673-9598-e7038bc138db</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>Module-vr-discrete-0.5</value>
+      <footprint>vr-discrete:vr-discrete</footprint>
+      <fields>
+        <field name="Footprint">vr-discrete:vr-discrete</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="vr-discrete" part="Module-vr-discrete-0.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66cf9fe2-a5d3-495e-b2b5-4723f0b00399</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>Module-vr-max9924-0.1</value>
+      <footprint>vrmax9924:vr-max9924</footprint>
+      <fields>
+        <field name="Footprint">vrmax9924:vr-max9924</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b93458d2-9f61-4913-b03d-97fcc581868b</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>Module-power_12and5V-0.3</value>
+      <footprint>power5_12:power_12and5V</footprint>
+      <description>Hellen-One Power_12and5V Module</description>
+      <fields>
+        <field name="Footprint">power5_12:power_12and5V</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Power_12and5V Module</field>
+      </fields>
+      <libsource lib="power_12and5V" part="Module-power_12and5V-0.3" description="Hellen-One Power_12and5V Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd3fa7bf-7579-45f5-9f1f-90160c213b57</tstamps>
+    </comp>
+    <comp ref="M5">
+      <value>Module-knock-0.2</value>
+      <footprint>knock:knock</footprint>
+      <description>Hellen-One Knock Pre-amplifier Module</description>
+      <fields>
+        <field name="Footprint">knock:knock</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Knock Pre-amplifier Module</field>
+      </fields>
+      <libsource lib="knock" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07969ee2-78cf-4ae2-9bbf-9499f27fb2a6</tstamps>
+    </comp>
+    <comp ref="M6">
+      <value>Module-can-0.1</value>
+      <footprint>can:can</footprint>
+      <description>Hellen-One CAN Module</description>
+      <fields>
+        <field name="Footprint">can:can</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One CAN Module</field>
+      </fields>
+      <libsource lib="can" part="Module-can-0.1" description="Hellen-One CAN Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec31e7d3-b3ef-4f00-9862-f07707bc86dc</tstamps>
+    </comp>
+    <comp ref="M7">
+      <value>Module-wbo-0.5</value>
+      <footprint>wbo:wbo</footprint>
+      <fields>
+        <field name="Footprint">wbo:wbo</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="wbo" part="Module-wbo-0.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12d23f4c-afb8-4c2a-9fcc-dd57dfc08819</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4a2cb68-dca0-4e3b-a379-582e521ace7b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e946efc-3ace-4dc7-8806-763f414d22bd</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3609685-1eb4-44bd-bfe6-1c774cd71eeb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c83de06-acea-4417-80b8-ac7958cc3eac</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c7a0175-c87f-463e-a12e-ab2b95f877d3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7feeff97-e463-48d5-acb1-6cf88711ab80</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>768e503b-85fc-438b-9a79-5caf74dc8fce</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>012d6fc6-00f5-459c-9bee-8ff7077ddfde</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a067d321-881a-4746-b395-ba695c71ac0c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>634a1dc3-e629-4f4a-85b5-9ffdf0cfcda6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb00491d-e834-4377-bd14-e22c1cfadb20</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95144390-0b52-4e7b-89bc-412ac834a3d3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d911061-85e9-4724-bdf3-94de95f3a1d3</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>605dc9fb-df50-471a-a764-0e5f3745e99d</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e10279d-9267-4d38-8a2e-75f6497742bf</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>~</value>
+      <footprint>VNLD5090-E:VNLD5090-E</footprint>
+      <fields>
+        <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d696a69-3f84-4408-b371-445e29a56570</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="175448-6" part="175448-6_1">
+      <description>Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/175448-6.pdf</docs>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">175448-6</field>
+        <field name="Footprint">175448-6:1754486</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/175448-6.pdf</field>
+        <field name="Description">Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect</field>
+        <field name="Height">22.2</field>
+        <field name="Mouser Part Number">571-175448-6</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/175448-6?qs=NCjoA4VtBPkeI%2FZa8OXhLg%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">175448-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E01" type="passive"/>
+        <pin num="2" name="#10" type="passive"/>
+        <pin num="3" name="NC" type="passive"/>
+        <pin num="4" name="STA" type="passive"/>
+        <pin num="5" name="O/D" type="passive"/>
+        <pin num="6" name="E02" type="passive"/>
+        <pin num="7" name="#20" type="passive"/>
+        <pin num="8" name="E1" type="passive"/>
+        <pin num="9" name="NSW" type="passive"/>
+        <pin num="10" name="NC" type="passive"/>
+        <pin num="11" name="ACT" type="passive"/>
+        <pin num="12" name="NC" type="passive"/>
+        <pin num="13" name="FC" type="passive"/>
+        <pin num="14" name="NC" type="passive"/>
+        <pin num="15" name="BATT" type="passive"/>
+        <pin num="16" name="+B1" type="passive"/>
+        <pin num="17" name="ELS" type="passive"/>
+        <pin num="18" name="SPD" type="passive"/>
+        <pin num="19" name="AC1" type="passive"/>
+        <pin num="20" name="NC" type="passive"/>
+        <pin num="21" name="W" type="passive"/>
+        <pin num="22" name="+B" type="passive"/>
+        <pin num="23" name="RSO" type="passive"/>
+        <pin num="24" name="RSC" type="passive"/>
+        <pin num="25" name="NC" type="passive"/>
+        <pin num="26" name="NC" type="passive"/>
+        <pin num="27" name="NC" type="passive"/>
+        <pin num="28" name="G1" type="passive"/>
+        <pin num="29" name="NE+" type="passive"/>
+        <pin num="30" name="IGF" type="passive"/>
+        <pin num="31" name="ISC" type="passive"/>
+        <pin num="32" name="IGT" type="passive"/>
+        <pin num="33" name="NC" type="passive"/>
+        <pin num="34" name="NC" type="passive"/>
+        <pin num="35" name="NC" type="passive"/>
+        <pin num="36" name="G-" type="passive"/>
+        <pin num="37" name="NE-" type="passive"/>
+        <pin num="38" name="EGR" type="passive"/>
+        <pin num="39" name="VF" type="passive"/>
+        <pin num="40" name="TE2" type="passive"/>
+        <pin num="41" name="OX" type="passive"/>
+        <pin num="42" name="OX2" type="passive"/>
+        <pin num="43" name="THW" type="passive"/>
+        <pin num="44" name="THA" type="passive"/>
+        <pin num="45" name="PIM" type="passive"/>
+        <pin num="46" name="NC" type="passive"/>
+        <pin num="47" name="E21" type="passive"/>
+        <pin num="48" name="TE1" type="passive"/>
+        <pin num="49" name="KNK" type="passive"/>
+        <pin num="50" name="THG" type="passive"/>
+        <pin num="51" name="IDL" type="passive"/>
+        <pin num="52" name="VC" type="passive"/>
+        <pin num="53" name="VTA" type="passive"/>
+        <pin num="54" name="E2" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="6437288-2" part="6437288-2">
+      <description>Conn Wire to Board RCP 34 POS 1.5mm Solder RA Thru-Hole Automotive Tube</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6437288-2</field>
+        <field name="Footprint">6437288-2:TE_6437288-2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Conn Wire to Board RCP 34 POS 1.5mm Solder RA Thru-Hole Automotive Tube</field>
+        <field name="COMMENT">6437288-2</field>
+        <field name="MF">TE Connectivity</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="TE_PURCHASE_URL">https://www.te.com/usa-en/product-6437288-2.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493</field>
+        <field name="PARTREV">A1</field>
+        <field name="MP">6437288-2</field>
+        <field name="EU_ROHS_COMPLIANCE">Compliant</field>
+        <field name="AVAILABILITY">Unavailable</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="21" name="21" type="passive"/>
+        <pin num="22" name="22" type="passive"/>
+        <pin num="23" name="23" type="passive"/>
+        <pin num="24" name="24" type="passive"/>
+        <pin num="25" name="25" type="passive"/>
+        <pin num="26" name="26" type="passive"/>
+        <pin num="27" name="27" type="passive"/>
+        <pin num="28" name="28" type="passive"/>
+        <pin num="29" name="29" type="passive"/>
+        <pin num="30" name="30" type="passive"/>
+        <pin num="31" name="31" type="passive"/>
+        <pin num="32" name="32" type="passive"/>
+        <pin num="33" name="33" type="passive"/>
+        <pin num="34" name="34" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0_14P">
+      <description>USB 2.0-only 14P Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0_14P</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">USB 2.0-only 14P Type-C Receptacle connector</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VNLD5090-E" part="VNLD5090-E">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="input"/>
+        <pin num="2" name="S1" type="input"/>
+        <pin num="3" name="IN2" type="input"/>
+        <pin num="4" name="S2" type="input"/>
+        <pin num="5" name="SOURCE2" type="input"/>
+        <pin num="6" name="DRAIN2" type="input"/>
+        <pin num="7" name="SOURCE1" type="input"/>
+        <pin num="8" name="DRAIN1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="can" part="Module-can-0.1">
+      <description>Hellen-One CAN Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-can-0.1</field>
+        <field name="Footprint">hellen-one-can-0.1:can</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One CAN Module</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="GND" type="passive"/>
+        <pin num="S1" name="CANL" type="passive"/>
+        <pin num="S2" name="CANH" type="passive"/>
+        <pin num="V1" name="V5" type="passive"/>
+        <pin num="V2" name="CAN_VIO" type="passive"/>
+        <pin num="V5" name="CAN_TX" type="passive"/>
+        <pin num="V6" name="CAN_RX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="knock" part="Module-knock-0.2">
+      <description>Hellen-One Knock Pre-amplifier Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-knock-0.2</field>
+        <field name="Footprint">hellen-one-knock-0.2:knock</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Knock Pre-amplifier Module</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="V5A" type="passive"/>
+        <pin num="E2" name="GND" type="passive"/>
+        <pin num="E3" name="OUT_KNOCK" type="passive"/>
+        <pin num="W1" name="IN_KNOCK" type="passive"/>
+        <pin num="W2" name="VREF" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mega-mcu144" part="Module-mega-mcu144-0.7">
+      <description>Hellen One MEGA_MCU144 Module</description>
+      <footprints>
+        <fp>MOD_Hellen_MEGA_MCU144_0.7</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M1000</field>
+        <field name="Value">Module-mega-mcu144-0.7</field>
+        <field name="Footprint">hellen-one-mega-mcu144-0.7:mega-mcu144</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen One MEGA_MCU144 Module</field>
+        <field name="PUBLISHER">qwerty-off</field>
+        <field name="SUPPLIER PART NUMBER 1">*</field>
+        <field name="SUPPLIER PART NUMBER 2">*</field>
+        <field name="SUPPLIER 1">Mouser</field>
+        <field name="SUPPLIER 2">Digi-Key</field>
+        <field name="FITTED">False</field>
+        <field name="PACKAGEREFERENCE"/>
+        <field name="SUPPLIER 3">LCSC</field>
+        <field name="SUPPLIER PART NUMBER 3"/>
+        <field name="TYPE">Module</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="SPI2_SCK/CAN2_TX" type="passive"/>
+        <pin num="E2" name="SPI2_MISO" type="passive"/>
+        <pin num="E3" name="SPI2_MOSI" type="passive"/>
+        <pin num="E4" name="SPI2_CS/CAN2_RX" type="passive"/>
+        <pin num="E6" name="OUT_IO3" type="passive"/>
+        <pin num="E7" name="OUT_IO5" type="passive"/>
+        <pin num="E8" name="OUT_IO1" type="passive"/>
+        <pin num="E9" name="OUT_IO6" type="passive"/>
+        <pin num="E10" name="OUT_IO10" type="passive"/>
+        <pin num="E11" name="OUT_IO9" type="passive"/>
+        <pin num="E12" name="OUT_IO2" type="passive"/>
+        <pin num="E13" name="OUT_IO12" type="passive"/>
+        <pin num="E14" name="OUT_PWM5" type="passive"/>
+        <pin num="E15" name="OUT_PWM4" type="passive"/>
+        <pin num="E16" name="OUT_PWM3" type="passive"/>
+        <pin num="E17" name="OUT_PWM2" type="passive"/>
+        <pin num="E18" name="OUT_INJ2" type="passive"/>
+        <pin num="E19" name="OUT_INJ1" type="passive"/>
+        <pin num="E20" name="OUT_IO13" type="passive"/>
+        <pin num="E21" name="OUT_IO4" type="passive"/>
+        <pin num="E22" name="OUT_IO8" type="passive"/>
+        <pin num="E23" name="OUT_IO7" type="passive"/>
+        <pin num="E24" name="OUT_IO11" type="passive"/>
+        <pin num="E25" name="OUT_PWM7" type="passive"/>
+        <pin num="E26" name="OUT_PWM6" type="passive"/>
+        <pin num="E27" name="OUT_PWM1" type="passive"/>
+        <pin num="E28" name="OUT_PWM8" type="passive"/>
+        <pin num="E29" name="OUT_INJ3" type="passive"/>
+        <pin num="E30" name="OUT_INJ4" type="passive"/>
+        <pin num="E31" name="OUT_INJ5" type="passive"/>
+        <pin num="E32" name="OUT_INJ6" type="passive"/>
+        <pin num="E33" name="OUT_INJ7" type="passive"/>
+        <pin num="E34" name="OUT_INJ8" type="passive"/>
+        <pin num="E35" name="IO6" type="passive"/>
+        <pin num="E36" name="IO7" type="passive"/>
+        <pin num="E38" name="V5A_SWITCHABLE" type="passive"/>
+        <pin num="E39" name="GNDA" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="N1" name="USBID" type="passive"/>
+        <pin num="N2" name="USBM" type="passive"/>
+        <pin num="N3" name="USBP" type="passive"/>
+        <pin num="N4" name="VBUS" type="passive"/>
+        <pin num="N5" name="BOOT0" type="passive"/>
+        <pin num="N6" name="SWO" type="passive"/>
+        <pin num="N7" name="SWDIO" type="passive"/>
+        <pin num="N8" name="SWCLK" type="passive"/>
+        <pin num="N9" name="nReset" type="passive"/>
+        <pin num="N10" name="SPI3_CS" type="passive"/>
+        <pin num="N11" name="SPI3_SCK" type="passive"/>
+        <pin num="N12" name="SPI3_MISO" type="passive"/>
+        <pin num="N13" name="SPI3_MOSI" type="passive"/>
+        <pin num="N14" name="I2C_SCL" type="passive"/>
+        <pin num="N15" name="I2C_SDA" type="passive"/>
+        <pin num="N16" name="IO1" type="passive"/>
+        <pin num="N17" name="UART2_TX" type="passive"/>
+        <pin num="N18" name="UART2_RX" type="passive"/>
+        <pin num="N19" name="IO2" type="passive"/>
+        <pin num="N20" name="IO4" type="passive"/>
+        <pin num="N21" name="IO3" type="passive"/>
+        <pin num="N22" name="V33" type="passive"/>
+        <pin num="N23" name="IO5" type="passive"/>
+        <pin num="N24" name="UART8_RX" type="passive"/>
+        <pin num="N25" name="UART8_TX" type="passive"/>
+        <pin num="N26" name="IN_VIGN" type="passive"/>
+        <pin num="N27" name="VBAT" type="passive"/>
+        <pin num="N28" name="V33_SWITCHABLE" type="passive"/>
+        <pin num="N29" name="OUT_PWR_EN" type="passive"/>
+        <pin num="N30" name="V5A_SWITCHABLE" type="passive"/>
+        <pin num="N31" name="VCC" type="passive"/>
+        <pin num="N32" name="V33" type="passive"/>
+        <pin num="S1" name="IN_D4" type="passive"/>
+        <pin num="S2" name="IN_D3" type="passive"/>
+        <pin num="S3" name="IN_D2" type="passive"/>
+        <pin num="S4" name="IN_D1" type="passive"/>
+        <pin num="S5" name="VREF2" type="passive"/>
+        <pin num="S6" name="IN_SENS4" type="passive"/>
+        <pin num="S7" name="IN_SENS3" type="passive"/>
+        <pin num="S8" name="IN_SENS2" type="passive"/>
+        <pin num="S9" name="IN_SENS1" type="passive"/>
+        <pin num="S10" name="IN_AUX4" type="passive"/>
+        <pin num="S11" name="IN_AUX3" type="passive"/>
+        <pin num="S12" name="IN_AUX2" type="passive"/>
+        <pin num="S13" name="IN_AUX1" type="passive"/>
+        <pin num="S14" name="IN_RES2" type="passive"/>
+        <pin num="S15" name="IN_O2S2" type="passive"/>
+        <pin num="S16" name="IN_O2S" type="passive"/>
+        <pin num="S17" name="IN_RES1" type="passive"/>
+        <pin num="S18" name="IN_RES3" type="passive"/>
+        <pin num="S19" name="IN_MAP3" type="passive"/>
+        <pin num="S20" name="IN_MAP2" type="passive"/>
+        <pin num="S21" name="IN_MAP1" type="passive"/>
+        <pin num="S22" name="IN_CRANK" type="passive"/>
+        <pin num="S23" name="IN_KNOCK" type="passive"/>
+        <pin num="S24" name="IN_CAM" type="passive"/>
+        <pin num="S25" name="IN_VSS" type="passive"/>
+        <pin num="S26" name="IN_IAT" type="passive"/>
+        <pin num="S27" name="IN_AT1" type="passive"/>
+        <pin num="S28" name="IN_CLT" type="passive"/>
+        <pin num="S29" name="IN_AT2" type="passive"/>
+        <pin num="S30" name="IN_TPS" type="passive"/>
+        <pin num="S31" name="IN_PPS" type="passive"/>
+        <pin num="S32" name="IN_TPS2" type="passive"/>
+        <pin num="S33" name="IN_PPS2" type="passive"/>
+        <pin num="S35" name="VREF1" type="passive"/>
+        <pin num="W1" name="GNDA" type="passive"/>
+        <pin num="W2" name="V5A_SWITCHABLE" type="passive"/>
+        <pin num="W3" name="V33_REF" type="passive"/>
+        <pin num="W3a" name="BOOT1" type="passive"/>
+        <pin num="W4" name="IGN8" type="passive"/>
+        <pin num="W5" name="IGN7" type="passive"/>
+        <pin num="W6" name="IGN6" type="passive"/>
+        <pin num="W7" name="IGN5" type="passive"/>
+        <pin num="W8" name="IGN4" type="passive"/>
+        <pin num="W9" name="IGN3" type="passive"/>
+        <pin num="W10" name="IGN2" type="passive"/>
+        <pin num="W11" name="IGN1" type="passive"/>
+        <pin num="W11a" name="LED_RED" type="passive"/>
+        <pin num="W11b" name="LED_GREEN" type="passive"/>
+        <pin num="W11c" name="LED_BLUE" type="passive"/>
+        <pin num="W11d" name="LED_YELLOW" type="passive"/>
+        <pin num="W12" name="CANH" type="passive"/>
+        <pin num="W13" name="CANL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="power_12and5V" part="Module-power_12and5V-0.3">
+      <description>Hellen-One Power_12and5V Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-power_12and5V-0.3</field>
+        <field name="Footprint">hellen-one-power_12and5V-0.3:power_12and5V</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Power_12and5V Module</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="VBAT" type="passive"/>
+        <pin num="E2" name="V12" type="passive"/>
+        <pin num="E3" name="VIGN" type="passive"/>
+        <pin num="E4" name="V5" type="passive"/>
+        <pin num="E5" name="EN_5VP" type="passive"/>
+        <pin num="E6" name="PG_5VP" type="passive"/>
+        <pin num="S1" name="GND" type="passive"/>
+        <pin num="V1" name="V12_PERM" type="passive"/>
+        <pin num="V2" name="IN_VIGN" type="passive"/>
+        <pin num="V3" name="V12_RAW" type="passive"/>
+        <pin num="V4" name="5VP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vr-discrete" part="Module-vr-discrete-0.5">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-vr-discrete-0.5</field>
+        <field name="Footprint">hellen-one-vr-discrete-0.5:vr-discrete</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="E1" name="Thresh_IN" type="passive"/>
+        <pin num="E2" name="OUT_A" type="passive"/>
+        <pin num="E3" name="OUT" type="passive"/>
+        <pin num="E4" name="V5_IN" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="W1" name="VR-" type="passive"/>
+        <pin num="W2" name="VR+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vr-max9924" part="Module-vr-max9924-0.1">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-vr-max9924-0.1</field>
+        <field name="Footprint">hellen-one-vr-max9924-0.1:vr-max9924</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="E1" name="HALL_EN" type="passive"/>
+        <pin num="E2" name="NC" type="passive"/>
+        <pin num="E3" name="OUT" type="passive"/>
+        <pin num="E4" name="V5_IN" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="W1" name="VR-/HALL" type="passive"/>
+        <pin num="W2" name="VR+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="wbo" part="Module-wbo-0.5">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-wbo-0.5</field>
+        <field name="Footprint">hellen-one-wbo-0.5:wbo</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="E1" name="LSU_Un" type="passive"/>
+        <pin num="E2" name="LSU_Vm" type="passive"/>
+        <pin num="E3" name="LSU_Ip" type="passive"/>
+        <pin num="E4" name="LSU_Rtrim" type="passive"/>
+        <pin num="E5" name="LSU_H+" type="passive"/>
+        <pin num="E6" name="LSU_H-" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="J1" name="SEL1" type="passive"/>
+        <pin num="J2" name="SEL2" type="passive"/>
+        <pin num="J_GND1" name="PULL_DOWN1" type="passive"/>
+        <pin num="J_GND2" name="PULL_DOWN2" type="passive"/>
+        <pin num="J_VCC1" name="PULL_UP1" type="passive"/>
+        <pin num="J_VCC2" name="PULL_UP2" type="passive"/>
+        <pin num="W1" name="V5_IN" type="passive"/>
+        <pin num="W2" name="CAN_VIO" type="passive"/>
+        <pin num="W3" name="CANL" type="passive"/>
+        <pin num="W4" name="CANH" type="passive"/>
+        <pin num="W5" name="nReset" type="passive"/>
+        <pin num="W6" name="SWDIO" type="passive"/>
+        <pin num="W7" name="SWCLK" type="passive"/>
+        <pin num="W8" name="V33_OUT" type="passive"/>
+        <pin num="W9" name="VDDA" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+3.3VA">
+      <node ref="M1" pin="N28" pinfunction="V33_SWITCHABLE" pintype="passive"/>
+      <node ref="M6" pin="V2" pinfunction="CAN_VIO" pintype="passive"/>
+      <node ref="M7" pin="W2" pinfunction="CAN_VIO" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="M1" pin="N31" pinfunction="VCC" pintype="passive"/>
+      <node ref="M4" pin="E4" pinfunction="V5" pintype="passive"/>
+    </net>
+    <net code="3" name="+5VA">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="M1" pin="E38" pinfunction="V5A_SWITCHABLE" pintype="passive"/>
+      <node ref="M1" pin="N30" pinfunction="V5A_SWITCHABLE" pintype="passive"/>
+      <node ref="M1" pin="W2" pinfunction="V5A_SWITCHABLE" pintype="passive"/>
+      <node ref="M2" pin="E4" pinfunction="V5_IN" pintype="passive"/>
+      <node ref="M3" pin="E4" pinfunction="V5_IN" pintype="passive"/>
+      <node ref="M5" pin="E1" pinfunction="V5A" pintype="passive"/>
+      <node ref="M6" pin="V1" pinfunction="V5" pintype="passive"/>
+    </net>
+    <net code="4" name="+5VP">
+      <node ref="J1" pin="52" pinfunction="VC" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J2" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="M4" pin="V4" pinfunction="5VP" pintype="passive"/>
+    </net>
+    <net code="5" name="+12V_PERM">
+      <node ref="J1" pin="15" pinfunction="BATT" pintype="passive"/>
+      <node ref="M4" pin="V1" pinfunction="V12_PERM" pintype="passive"/>
+    </net>
+    <net code="6" name="+12V_RAW">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="+B1" pintype="passive"/>
+      <node ref="J1" pin="22" pinfunction="+B" pintype="passive"/>
+      <node ref="M4" pin="V2" pinfunction="IN_VIGN" pintype="passive"/>
+      <node ref="M4" pin="V3" pinfunction="V12_RAW" pintype="passive"/>
+    </net>
+    <net code="7" name="/5VP_ENABLE">
+      <node ref="M1" pin="N29" pinfunction="OUT_PWR_EN" pintype="passive"/>
+      <node ref="M4" pin="E5" pinfunction="EN_5VP" pintype="passive"/>
+    </net>
+    <net code="8" name="/ACSTATUS">
+      <node ref="J1" pin="19" pinfunction="AC1" pintype="passive"/>
+      <node ref="M1" pin="S19" pinfunction="IN_MAP3" pintype="passive"/>
+    </net>
+    <net code="9" name="/ACTEMP">
+      <node ref="J1" pin="11" pinfunction="ACT" pintype="passive"/>
+      <node ref="M1" pin="S27" pinfunction="IN_AT1" pintype="passive"/>
+    </net>
+    <net code="10" name="/AUX1">
+      <node ref="J2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="M1" pin="S13" pinfunction="IN_AUX1" pintype="passive"/>
+    </net>
+    <net code="11" name="/AUX2">
+      <node ref="J2" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="M1" pin="S12" pinfunction="IN_AUX2" pintype="passive"/>
+    </net>
+    <net code="12" name="/AUX3">
+      <node ref="J2" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="M1" pin="S11" pinfunction="IN_AUX3" pintype="passive"/>
+    </net>
+    <net code="13" name="/AUX4">
+      <node ref="J2" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="M1" pin="S10" pinfunction="IN_AUX4" pintype="passive"/>
+    </net>
+    <net code="14" name="/CAN1H">
+      <node ref="M1" pin="W12" pinfunction="CANH" pintype="passive"/>
+      <node ref="M7" pin="W4" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="15" name="/CAN1L">
+      <node ref="M1" pin="W13" pinfunction="CANL" pintype="passive"/>
+      <node ref="M7" pin="W3" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="16" name="/CAN2H">
+      <node ref="M6" pin="S2" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="17" name="/CAN2L">
+      <node ref="M6" pin="S1" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="18" name="/CHECKENGINE_IN">
+      <node ref="M1" pin="E18" pinfunction="OUT_INJ2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="19" name="/CHECKENGINE_OUT">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="21" pinfunction="W" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="20" name="/CLT">
+      <node ref="J1" pin="43" pinfunction="THW" pintype="passive"/>
+      <node ref="M1" pin="S28" pinfunction="IN_CLT" pintype="passive"/>
+    </net>
+    <net code="21" name="/D1">
+      <node ref="J2" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="M1" pin="S4" pinfunction="IN_D1" pintype="passive"/>
+    </net>
+    <net code="22" name="/D2">
+      <node ref="J2" pin="21" pinfunction="21" pintype="passive"/>
+      <node ref="M1" pin="S3" pinfunction="IN_D2" pintype="passive"/>
+    </net>
+    <net code="23" name="/D3">
+      <node ref="J2" pin="26" pinfunction="26" pintype="passive"/>
+      <node ref="M1" pin="S2" pinfunction="IN_D3" pintype="passive"/>
+    </net>
+    <net code="24" name="/ELECTRICLOAD">
+      <node ref="J1" pin="17" pinfunction="ELS" pintype="passive"/>
+      <node ref="M1" pin="S20" pinfunction="IN_MAP2" pintype="passive"/>
+    </net>
+    <net code="25" name="/FUELRELAY_IN">
+      <node ref="M1" pin="E19" pinfunction="OUT_INJ1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="26" name="/FUELRELAY_OUT">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="FC" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="27" name="/IACCLOSE_IN">
+      <node ref="M1" pin="E27" pinfunction="OUT_PWM1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="28" name="/IACCLOSE_OUT">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="24" pinfunction="RSC" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="29" name="/IACOPEN_IN">
+      <node ref="M1" pin="E26" pinfunction="OUT_PWM6" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="30" name="/IACOPEN_OUT">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="23" pinfunction="RSO" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="31" name="/IAT">
+      <node ref="J1" pin="44" pinfunction="THA" pintype="passive"/>
+      <node ref="M1" pin="S26" pinfunction="IN_IAT" pintype="passive"/>
+    </net>
+    <net code="32" name="/IDLSW">
+      <node ref="J1" pin="51" pinfunction="IDL" pintype="passive"/>
+      <node ref="M1" pin="S1" pinfunction="IN_D4" pintype="passive"/>
+    </net>
+    <net code="33" name="/IGN1">
+      <node ref="J1" pin="32" pinfunction="IGT" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="M1" pin="W11" pinfunction="IGN1" pintype="passive"/>
+    </net>
+    <net code="34" name="/IGN2">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="M1" pin="W10" pinfunction="IGN2" pintype="passive"/>
+    </net>
+    <net code="35" name="/IGN3">
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="M1" pin="W9" pinfunction="IGN3" pintype="passive"/>
+    </net>
+    <net code="36" name="/IGN4">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="M1" pin="W8" pinfunction="IGN4" pintype="passive"/>
+    </net>
+    <net code="37" name="/INJ1_IN">
+      <node ref="M1" pin="E32" pinfunction="OUT_INJ6" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="38" name="/INJ1_OUT">
+      <node ref="J2" pin="30" pinfunction="30" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="39" name="/INJ2_IN">
+      <node ref="M1" pin="E31" pinfunction="OUT_INJ5" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="40" name="/INJ2_OUT">
+      <node ref="J2" pin="29" pinfunction="29" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="41" name="/INJ3_IN">
+      <node ref="M1" pin="E30" pinfunction="OUT_INJ4" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="42" name="/INJ3_OUT">
+      <node ref="J2" pin="28" pinfunction="28" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="43" name="/INJ4_IN">
+      <node ref="M1" pin="E29" pinfunction="OUT_INJ3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="44" name="/INJ4_OUT">
+      <node ref="J2" pin="27" pinfunction="27" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="45" name="/KNOCK_PROCESSED">
+      <node ref="M1" pin="S23" pinfunction="IN_KNOCK" pintype="passive"/>
+      <node ref="M5" pin="E3" pinfunction="OUT_KNOCK" pintype="passive"/>
+    </net>
+    <net code="46" name="/KNOCK_RAW">
+      <node ref="J1" pin="49" pinfunction="KNK" pintype="passive"/>
+      <node ref="M5" pin="W1" pinfunction="IN_KNOCK" pintype="passive"/>
+    </net>
+    <net code="47" name="/LS1_IN">
+      <node ref="M1" pin="E17" pinfunction="OUT_PWM2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="48" name="/LS1_OUT">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="34" pinfunction="34" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="49" name="/LS2_IN">
+      <node ref="M1" pin="E16" pinfunction="OUT_PWM3" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="50" name="/LS2_OUT">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="33" pinfunction="33" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="51" name="/LS3_IN">
+      <node ref="M1" pin="E15" pinfunction="OUT_PWM4" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="52" name="/LS3_OUT">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="32" pinfunction="32" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="DRAIN1" pintype="input"/>
+    </net>
+    <net code="53" name="/LS4_IN">
+      <node ref="M1" pin="E14" pinfunction="OUT_PWM5" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="54" name="/LS4_OUT">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="31" pinfunction="31" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="DRAIN2" pintype="input"/>
+    </net>
+    <net code="55" name="/MAINVR_OUT">
+      <node ref="M1" pin="S22" pinfunction="IN_CRANK" pintype="passive"/>
+      <node ref="M3" pin="E3" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="56" name="/MAP">
+      <node ref="J1" pin="45" pinfunction="PIM" pintype="passive"/>
+      <node ref="M1" pin="S21" pinfunction="IN_MAP1" pintype="passive"/>
+    </net>
+    <net code="57" name="/NARROWO2_DOWNSTR">
+      <node ref="J1" pin="42" pinfunction="OX2" pintype="passive"/>
+      <node ref="M1" pin="S15" pinfunction="IN_O2S2" pintype="passive"/>
+    </net>
+    <net code="58" name="/NARROWO2_UPSTR">
+      <node ref="J1" pin="41" pinfunction="OX" pintype="passive"/>
+      <node ref="M1" pin="S16" pinfunction="IN_O2S" pintype="passive"/>
+    </net>
+    <net code="59" name="/NEUTRALSW">
+      <node ref="J1" pin="9" pinfunction="NSW" pintype="passive"/>
+    </net>
+    <net code="60" name="/OUT1">
+      <node ref="J2" pin="22" pinfunction="22" pintype="passive"/>
+      <node ref="M1" pin="W7" pinfunction="IGN5" pintype="passive"/>
+    </net>
+    <net code="61" name="/OUT2">
+      <node ref="J2" pin="23" pinfunction="23" pintype="passive"/>
+      <node ref="M1" pin="W6" pinfunction="IGN6" pintype="passive"/>
+    </net>
+    <net code="62" name="/OUT3">
+      <node ref="J2" pin="24" pinfunction="24" pintype="passive"/>
+      <node ref="M1" pin="W5" pinfunction="IGN7" pintype="passive"/>
+    </net>
+    <net code="63" name="/OUT4">
+      <node ref="J2" pin="25" pinfunction="25" pintype="passive"/>
+      <node ref="M1" pin="W4" pinfunction="IGN8" pintype="passive"/>
+    </net>
+    <net code="64" name="/RES1">
+      <node ref="J2" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="M1" pin="S17" pinfunction="IN_RES1" pintype="passive"/>
+    </net>
+    <net code="65" name="/RES2">
+      <node ref="J2" pin="20" pinfunction="20" pintype="passive"/>
+      <node ref="M1" pin="S14" pinfunction="IN_RES2" pintype="passive"/>
+    </net>
+    <net code="66" name="/RES3">
+      <node ref="J2" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="M1" pin="S18" pinfunction="IN_RES3" pintype="passive"/>
+    </net>
+    <net code="67" name="/SENS1">
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="M1" pin="S9" pinfunction="IN_SENS1" pintype="passive"/>
+    </net>
+    <net code="68" name="/SENS2">
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="M1" pin="S8" pinfunction="IN_SENS2" pintype="passive"/>
+    </net>
+    <net code="69" name="/SENS3">
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="M1" pin="S7" pinfunction="IN_SENS3" pintype="passive"/>
+    </net>
+    <net code="70" name="/SENS4">
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="M1" pin="S6" pinfunction="IN_SENS4" pintype="passive"/>
+    </net>
+    <net code="71" name="/SPEED">
+      <node ref="J1" pin="18" pinfunction="SPD" pintype="passive"/>
+      <node ref="M1" pin="S25" pinfunction="IN_VSS" pintype="passive"/>
+    </net>
+    <net code="72" name="/SYNC+">
+      <node ref="J1" pin="28" pinfunction="G1" pintype="passive"/>
+      <node ref="M2" pin="W2" pinfunction="VR+" pintype="passive"/>
+    </net>
+    <net code="73" name="/SYNC-">
+      <node ref="J1" pin="36" pinfunction="G-" pintype="passive"/>
+      <node ref="M2" pin="W1" pinfunction="VR-" pintype="passive"/>
+    </net>
+    <net code="74" name="/SYNCVR_OUT">
+      <node ref="M1" pin="S24" pinfunction="IN_CAM" pintype="passive"/>
+      <node ref="M2" pin="E3" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="75" name="/TPS">
+      <node ref="J1" pin="53" pinfunction="VTA" pintype="passive"/>
+      <node ref="M1" pin="S30" pinfunction="IN_TPS" pintype="passive"/>
+    </net>
+    <net code="76" name="/USB+">
+      <node ref="J3" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J3" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="M1" pin="N3" pinfunction="USBP" pintype="passive"/>
+    </net>
+    <net code="77" name="/USB-">
+      <node ref="J3" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J3" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="M1" pin="N2" pinfunction="USBM" pintype="passive"/>
+    </net>
+    <net code="78" name="/VBAT">
+      <node ref="M1" pin="N27" pinfunction="VBAT" pintype="passive"/>
+      <node ref="M4" pin="E1" pinfunction="VBAT" pintype="passive"/>
+    </net>
+    <net code="79" name="/VIGN">
+      <node ref="M1" pin="N26" pinfunction="IN_VIGN" pintype="passive"/>
+      <node ref="M4" pin="E3" pinfunction="VIGN" pintype="passive"/>
+    </net>
+    <net code="80" name="/VR+">
+      <node ref="J1" pin="29" pinfunction="NE+" pintype="passive"/>
+      <node ref="M3" pin="W2" pinfunction="VR+" pintype="passive"/>
+    </net>
+    <net code="81" name="/VR-">
+      <node ref="J1" pin="37" pinfunction="NE-" pintype="passive"/>
+      <node ref="M3" pin="W1" pinfunction="VR-/HALL" pintype="passive"/>
+    </net>
+    <net code="82" name="/VREF1">
+      <node ref="M1" pin="S35" pinfunction="VREF1" pintype="passive"/>
+      <node ref="M5" pin="W2" pinfunction="VREF" pintype="passive"/>
+    </net>
+    <net code="83" name="/VR_THRESH">
+      <node ref="M1" pin="E28" pinfunction="OUT_PWM8" pintype="passive"/>
+      <node ref="M2" pin="E1" pinfunction="Thresh_IN" pintype="passive"/>
+    </net>
+    <net code="84" name="GND">
+      <node ref="J1" pin="1" pinfunction="E01" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="E02" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="E1" pintype="passive"/>
+      <node ref="J1" pin="MH1" pinfunction="MH1" pintype="passive"/>
+      <node ref="J1" pin="MH2" pinfunction="MH2" pintype="passive"/>
+      <node ref="J1" pin="MH3" pinfunction="MH3" pintype="passive"/>
+      <node ref="J3" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="M1" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M2" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M3" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M4" pin="S1" pinfunction="GND" pintype="passive"/>
+      <node ref="M5" pin="E2" pinfunction="GND" pintype="passive"/>
+      <node ref="M6" pin="E1" pinfunction="GND" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="SOURCE1" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="SOURCE1" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="SOURCE1" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="SOURCE1" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="SOURCE1" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="SOURCE2" pintype="input"/>
+      <node ref="U6" pin="7" pinfunction="SOURCE1" pintype="input"/>
+    </net>
+    <net code="85" name="GNDA">
+      <node ref="J1" pin="47" pinfunction="E21" pintype="passive"/>
+      <node ref="J1" pin="54" pinfunction="E2" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="M1" pin="E39" pinfunction="GNDA" pintype="passive"/>
+      <node ref="M1" pin="W1" pinfunction="GNDA" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(J3-CC1)">
+      <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(J3-CC2)">
+      <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(JP1-A)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="M3" pin="E1" pinfunction="HALL_EN" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(M1-SPI2_CS{slash}CAN2_RX)">
+      <node ref="M1" pin="E4" pinfunction="SPI2_CS/CAN2_RX" pintype="passive"/>
+      <node ref="M6" pin="V6" pinfunction="CAN_RX" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(M1-SPI2_SCK{slash}CAN2_TX)">
+      <node ref="M1" pin="E1" pinfunction="SPI2_SCK/CAN2_TX" pintype="passive"/>
+      <node ref="M6" pin="V5" pinfunction="CAN_TX" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(M1-VBUS)">
+      <node ref="J3" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="M1" pin="N4" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J1-#10-Pad2)">
+      <node ref="J1" pin="2" pinfunction="#10" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J1-#20-Pad7)">
+      <node ref="J1" pin="7" pinfunction="#20" pintype="passive+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-EGR-Pad38)">
+      <node ref="J1" pin="38" pinfunction="EGR" pintype="passive+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J1-IGF-Pad30)">
+      <node ref="J1" pin="30" pinfunction="IGF" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J1-ISC-Pad31)">
+      <node ref="J1" pin="31" pinfunction="ISC" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J1-NC-Pad3)">
+      <node ref="J1" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J1-NC-Pad10)">
+      <node ref="J1" pin="10" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J1-NC-Pad12)">
+      <node ref="J1" pin="12" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(J1-NC-Pad14)">
+      <node ref="J1" pin="14" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(J1-NC-Pad20)">
+      <node ref="J1" pin="20" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(J1-NC-Pad25)">
+      <node ref="J1" pin="25" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J1-NC-Pad26)">
+      <node ref="J1" pin="26" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J1-NC-Pad27)">
+      <node ref="J1" pin="27" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J1-NC-Pad33)">
+      <node ref="J1" pin="33" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J1-NC-Pad34)">
+      <node ref="J1" pin="34" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(J1-NC-Pad35)">
+      <node ref="J1" pin="35" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(J1-NC-Pad46)">
+      <node ref="J1" pin="46" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J1-O{slash}D-Pad5)">
+      <node ref="J1" pin="5" pinfunction="O/D" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-STA-Pad4)">
+      <node ref="J1" pin="4" pinfunction="STA" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(J1-TE1-Pad48)">
+      <node ref="J1" pin="48" pinfunction="TE1" pintype="passive+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J1-TE2-Pad40)">
+      <node ref="J1" pin="40" pinfunction="TE2" pintype="passive+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J1-THG-Pad50)">
+      <node ref="J1" pin="50" pinfunction="THG" pintype="passive+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J1-VF-Pad39)">
+      <node ref="J1" pin="39" pinfunction="VF" pintype="passive+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(M1-BOOT0-PadN5)">
+      <node ref="M1" pin="N5" pinfunction="BOOT0" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(M1-BOOT1-PadW3a)">
+      <node ref="M1" pin="W3a" pinfunction="BOOT1" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(M1-I2C_SCL-PadN14)">
+      <node ref="M1" pin="N14" pinfunction="I2C_SCL" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(M1-I2C_SDA-PadN15)">
+      <node ref="M1" pin="N15" pinfunction="I2C_SDA" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(M1-IN_AT2-PadS29)">
+      <node ref="M1" pin="S29" pinfunction="IN_AT2" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(M1-IN_PPS-PadS31)">
+      <node ref="M1" pin="S31" pinfunction="IN_PPS" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(M1-IN_PPS2-PadS33)">
+      <node ref="M1" pin="S33" pinfunction="IN_PPS2" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(M1-IN_TPS2-PadS32)">
+      <node ref="M1" pin="S32" pinfunction="IN_TPS2" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(M1-IO1-PadN16)">
+      <node ref="M1" pin="N16" pinfunction="IO1" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(M1-IO2-PadN19)">
+      <node ref="M1" pin="N19" pinfunction="IO2" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(M1-IO3-PadN21)">
+      <node ref="M1" pin="N21" pinfunction="IO3" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(M1-IO4-PadN20)">
+      <node ref="M1" pin="N20" pinfunction="IO4" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(M1-IO5-PadN23)">
+      <node ref="M1" pin="N23" pinfunction="IO5" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(M1-IO6-PadE35)">
+      <node ref="M1" pin="E35" pinfunction="IO6" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(M1-IO7-PadE36)">
+      <node ref="M1" pin="E36" pinfunction="IO7" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(M1-LED_BLUE-PadW11c)">
+      <node ref="M1" pin="W11c" pinfunction="LED_BLUE" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(M1-LED_GREEN-PadW11b)">
+      <node ref="M1" pin="W11b" pinfunction="LED_GREEN" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(M1-LED_RED-PadW11a)">
+      <node ref="M1" pin="W11a" pinfunction="LED_RED" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(M1-LED_YELLOW-PadW11d)">
+      <node ref="M1" pin="W11d" pinfunction="LED_YELLOW" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(M1-OUT_INJ7-PadE33)">
+      <node ref="M1" pin="E33" pinfunction="OUT_INJ7" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(M1-OUT_INJ8-PadE34)">
+      <node ref="M1" pin="E34" pinfunction="OUT_INJ8" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(M1-OUT_IO1-PadE8)">
+      <node ref="M1" pin="E8" pinfunction="OUT_IO1" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(M1-OUT_IO2-PadE12)">
+      <node ref="M1" pin="E12" pinfunction="OUT_IO2" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(M1-OUT_IO3-PadE6)">
+      <node ref="M1" pin="E6" pinfunction="OUT_IO3" pintype="passive"/>
+    </net>
+    <net code="139" name="unconnected-(M1-OUT_IO4-PadE21)">
+      <node ref="M1" pin="E21" pinfunction="OUT_IO4" pintype="passive"/>
+    </net>
+    <net code="140" name="unconnected-(M1-OUT_IO5-PadE7)">
+      <node ref="M1" pin="E7" pinfunction="OUT_IO5" pintype="passive"/>
+    </net>
+    <net code="141" name="unconnected-(M1-OUT_IO6-PadE9)">
+      <node ref="M1" pin="E9" pinfunction="OUT_IO6" pintype="passive"/>
+    </net>
+    <net code="142" name="unconnected-(M1-OUT_IO7-PadE23)">
+      <node ref="M1" pin="E23" pinfunction="OUT_IO7" pintype="passive"/>
+    </net>
+    <net code="143" name="unconnected-(M1-OUT_IO8-PadE22)">
+      <node ref="M1" pin="E22" pinfunction="OUT_IO8" pintype="passive"/>
+    </net>
+    <net code="144" name="unconnected-(M1-OUT_IO9-PadE11)">
+      <node ref="M1" pin="E11" pinfunction="OUT_IO9" pintype="passive"/>
+    </net>
+    <net code="145" name="unconnected-(M1-OUT_IO10-PadE10)">
+      <node ref="M1" pin="E10" pinfunction="OUT_IO10" pintype="passive"/>
+    </net>
+    <net code="146" name="unconnected-(M1-OUT_IO11-PadE24)">
+      <node ref="M1" pin="E24" pinfunction="OUT_IO11" pintype="passive"/>
+    </net>
+    <net code="147" name="unconnected-(M1-OUT_IO12-PadE13)">
+      <node ref="M1" pin="E13" pinfunction="OUT_IO12" pintype="passive"/>
+    </net>
+    <net code="148" name="unconnected-(M1-OUT_IO13-PadE20)">
+      <node ref="M1" pin="E20" pinfunction="OUT_IO13" pintype="passive"/>
+    </net>
+    <net code="149" name="unconnected-(M1-OUT_PWM7-PadE25)">
+      <node ref="M1" pin="E25" pinfunction="OUT_PWM7" pintype="passive"/>
+    </net>
+    <net code="150" name="unconnected-(M1-SPI2_MISO-PadE2)">
+      <node ref="M1" pin="E2" pinfunction="SPI2_MISO" pintype="passive"/>
+    </net>
+    <net code="151" name="unconnected-(M1-SPI2_MOSI-PadE3)">
+      <node ref="M1" pin="E3" pinfunction="SPI2_MOSI" pintype="passive"/>
+    </net>
+    <net code="152" name="unconnected-(M1-SPI3_CS-PadN10)">
+      <node ref="M1" pin="N10" pinfunction="SPI3_CS" pintype="passive"/>
+    </net>
+    <net code="153" name="unconnected-(M1-SPI3_MISO-PadN12)">
+      <node ref="M1" pin="N12" pinfunction="SPI3_MISO" pintype="passive"/>
+    </net>
+    <net code="154" name="unconnected-(M1-SPI3_MOSI-PadN13)">
+      <node ref="M1" pin="N13" pinfunction="SPI3_MOSI" pintype="passive"/>
+    </net>
+    <net code="155" name="unconnected-(M1-SPI3_SCK-PadN11)">
+      <node ref="M1" pin="N11" pinfunction="SPI3_SCK" pintype="passive"/>
+    </net>
+    <net code="156" name="unconnected-(M1-SWCLK-PadN8)">
+      <node ref="M1" pin="N8" pinfunction="SWCLK" pintype="passive"/>
+    </net>
+    <net code="157" name="unconnected-(M1-SWDIO-PadN7)">
+      <node ref="M1" pin="N7" pinfunction="SWDIO" pintype="passive"/>
+    </net>
+    <net code="158" name="unconnected-(M1-SWO-PadN6)">
+      <node ref="M1" pin="N6" pinfunction="SWO" pintype="passive"/>
+    </net>
+    <net code="159" name="unconnected-(M1-UART2_RX-PadN18)">
+      <node ref="M1" pin="N18" pinfunction="UART2_RX" pintype="passive"/>
+    </net>
+    <net code="160" name="unconnected-(M1-UART2_TX-PadN17)">
+      <node ref="M1" pin="N17" pinfunction="UART2_TX" pintype="passive"/>
+    </net>
+    <net code="161" name="unconnected-(M1-UART8_RX-PadN24)">
+      <node ref="M1" pin="N24" pinfunction="UART8_RX" pintype="passive"/>
+    </net>
+    <net code="162" name="unconnected-(M1-UART8_TX-PadN25)">
+      <node ref="M1" pin="N25" pinfunction="UART8_TX" pintype="passive"/>
+    </net>
+    <net code="163" name="unconnected-(M1-USBID-PadN1)">
+      <node ref="M1" pin="N1" pinfunction="USBID" pintype="passive"/>
+    </net>
+    <net code="164" name="unconnected-(M1-V33-PadN22)">
+      <node ref="M1" pin="N22" pinfunction="V33" pintype="passive"/>
+    </net>
+    <net code="165" name="unconnected-(M1-V33-PadN32)">
+      <node ref="M1" pin="N32" pinfunction="V33" pintype="passive"/>
+    </net>
+    <net code="166" name="unconnected-(M1-V33_REF-PadW3)">
+      <node ref="M1" pin="W3" pinfunction="V33_REF" pintype="passive"/>
+    </net>
+    <net code="167" name="unconnected-(M1-VREF2-PadS5)">
+      <node ref="M1" pin="S5" pinfunction="VREF2" pintype="passive"/>
+    </net>
+    <net code="168" name="unconnected-(M1-nReset-PadN9)">
+      <node ref="M1" pin="N9" pinfunction="nReset" pintype="passive"/>
+    </net>
+    <net code="169" name="unconnected-(M2-OUT_A-PadE2)">
+      <node ref="M2" pin="E2" pinfunction="OUT_A" pintype="passive+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(M3-NC-PadE2)">
+      <node ref="M3" pin="E2" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(M4-PG_5VP-PadE6)">
+      <node ref="M4" pin="E6" pinfunction="PG_5VP" pintype="passive+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(M4-V12-PadE2)">
+      <node ref="M4" pin="E2" pinfunction="V12" pintype="passive+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(M7-GND-PadG)">
+      <node ref="M7" pin="G" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="174" name="unconnected-(M7-LSU_H+-PadE5)">
+      <node ref="M7" pin="E5" pinfunction="LSU_H+" pintype="passive"/>
+    </net>
+    <net code="175" name="unconnected-(M7-LSU_H--PadE6)">
+      <node ref="M7" pin="E6" pinfunction="LSU_H-" pintype="passive"/>
+    </net>
+    <net code="176" name="unconnected-(M7-LSU_Ip-PadE3)">
+      <node ref="M7" pin="E3" pinfunction="LSU_Ip" pintype="passive"/>
+    </net>
+    <net code="177" name="unconnected-(M7-LSU_Rtrim-PadE4)">
+      <node ref="M7" pin="E4" pinfunction="LSU_Rtrim" pintype="passive"/>
+    </net>
+    <net code="178" name="unconnected-(M7-LSU_Un-PadE1)">
+      <node ref="M7" pin="E1" pinfunction="LSU_Un" pintype="passive"/>
+    </net>
+    <net code="179" name="unconnected-(M7-LSU_Vm-PadE2)">
+      <node ref="M7" pin="E2" pinfunction="LSU_Vm" pintype="passive"/>
+    </net>
+    <net code="180" name="unconnected-(M7-PULL_DOWN1-PadJ_GND1)">
+      <node ref="M7" pin="J_GND1" pinfunction="PULL_DOWN1" pintype="passive"/>
+    </net>
+    <net code="181" name="unconnected-(M7-PULL_DOWN2-PadJ_GND2)">
+      <node ref="M7" pin="J_GND2" pinfunction="PULL_DOWN2" pintype="passive"/>
+    </net>
+    <net code="182" name="unconnected-(M7-PULL_UP1-PadJ_VCC1)">
+      <node ref="M7" pin="J_VCC1" pinfunction="PULL_UP1" pintype="passive"/>
+    </net>
+    <net code="183" name="unconnected-(M7-PULL_UP2-PadJ_VCC2)">
+      <node ref="M7" pin="J_VCC2" pinfunction="PULL_UP2" pintype="passive"/>
+    </net>
+    <net code="184" name="unconnected-(M7-SEL1-PadJ1)">
+      <node ref="M7" pin="J1" pinfunction="SEL1" pintype="passive"/>
+    </net>
+    <net code="185" name="unconnected-(M7-SEL2-PadJ2)">
+      <node ref="M7" pin="J2" pinfunction="SEL2" pintype="passive"/>
+    </net>
+    <net code="186" name="unconnected-(M7-SWCLK-PadW7)">
+      <node ref="M7" pin="W7" pinfunction="SWCLK" pintype="passive"/>
+    </net>
+    <net code="187" name="unconnected-(M7-SWDIO-PadW6)">
+      <node ref="M7" pin="W6" pinfunction="SWDIO" pintype="passive"/>
+    </net>
+    <net code="188" name="unconnected-(M7-V5_IN-PadW1)">
+      <node ref="M7" pin="W1" pinfunction="V5_IN" pintype="passive"/>
+    </net>
+    <net code="189" name="unconnected-(M7-V33_OUT-PadW8)">
+      <node ref="M7" pin="W8" pinfunction="V33_OUT" pintype="passive"/>
+    </net>
+    <net code="190" name="unconnected-(M7-VDDA-PadW9)">
+      <node ref="M7" pin="W9" pinfunction="VDDA" pintype="passive"/>
+    </net>
+    <net code="191" name="unconnected-(M7-nReset-PadW5)">
+      <node ref="M7" pin="W5" pinfunction="nReset" pintype="passive"/>
+    </net>
+    <net code="192" name="unconnected-(U1-S1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="193" name="unconnected-(U1-S2-Pad4)">
+      <node ref="U1" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+    <net code="194" name="unconnected-(U2-S1-Pad2)">
+      <node ref="U2" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(U2-S2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+    <net code="196" name="unconnected-(U3-S1-Pad2)">
+      <node ref="U3" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="197" name="unconnected-(U3-S2-Pad4)">
+      <node ref="U3" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+    <net code="198" name="unconnected-(U4-S1-Pad2)">
+      <node ref="U4" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="199" name="unconnected-(U4-S2-Pad4)">
+      <node ref="U4" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+    <net code="200" name="unconnected-(U5-S1-Pad2)">
+      <node ref="U5" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="201" name="unconnected-(U5-S2-Pad4)">
+      <node ref="U5" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+    <net code="202" name="unconnected-(U6-S1-Pad2)">
+      <node ref="U6" pin="2" pinfunction="S1" pintype="input+no_connect"/>
+    </net>
+    <net code="203" name="unconnected-(U6-S2-Pad4)">
+      <node ref="U6" pin="4" pinfunction="S2" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
