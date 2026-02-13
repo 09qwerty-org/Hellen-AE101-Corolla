@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-E101-Corolla-PNP/hellen-E101-Corolla-PNP/AE101Corolla.kicad_sch</source>
-    <date>2026-02-13T03:28:48+0000</date>
+    <date>2026-02-13T04:04:33+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -29,11 +29,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -46,11 +48,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -63,11 +67,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -80,11 +86,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -97,11 +105,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -114,11 +124,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -131,11 +143,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -148,11 +162,13 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <description>Schottky diode</description>
       <fields>
+        <field name="LCSC">C8598</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -171,6 +187,7 @@
         <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/175448-6?qs=NCjoA4VtBPkeI%2FZa8OXhLg%3D%3D</field>
         <field name="Manufacturer_Name">TE Connectivity</field>
         <field name="Manufacturer_Part_Number">175448-6</field>
+        <field name="LCSC"/>
         <field name="Footprint">175448-6:1754486</field>
         <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/175448-6.pdf</field>
         <field name="Description">Body Features: Primary Product Color Gray | Configuration Features: Number of Positions 54 | Number of Signal Positions 54 | Number of Rows 2 | PCB Mount Orientation Horizontal | Number of Sections 3 | Contact Features: Mating Tab Thickness .025 INCH | Contact Size 1mm | Mating Tab Width 1.8 MM | Mating Tab Width .071 INCH | Mating Tab Width .039 INCH | Contact Type Tab | Contact Mating Area Plating Material Tin | Mating Tab Width 1 MM | Contact Size 1.8mm | Mating Tab Thickness .64 MM | Dimensions: Connect</field>
@@ -181,6 +198,7 @@
       <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/175448-6?qs=NCjoA4VtBPkeI%2FZa8OXhLg%3D%3D"/>
       <property name="Manufacturer_Name" value="TE Connectivity"/>
       <property name="Manufacturer_Part_Number" value="175448-6"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -200,6 +218,7 @@
         <field name="MP">6437288-2</field>
         <field name="EU_ROHS_COMPLIANCE">Compliant</field>
         <field name="AVAILABILITY">Unavailable</field>
+        <field name="LCSC"/>
         <field name="Footprint">superseal_34:TE_6437288-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -215,6 +234,7 @@
       <property name="MP" value="6437288-2"/>
       <property name="EU_ROHS_COMPLIANCE" value="Compliant"/>
       <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -226,11 +246,13 @@
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <description>USB 2.0-only 14P Type-C Receptacle connector</description>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</field>
         <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
         <field name="Description">USB 2.0-only 14P Type-C Receptacle connector</field>
       </fields>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0_14P" description="USB 2.0-only 14P Type-C Receptacle connector"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
@@ -243,11 +265,13 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -271,6 +295,7 @@
         <field name="SUPPLIER 3">LCSC</field>
         <field name="SUPPLIER PART NUMBER 3"/>
         <field name="TYPE">Module</field>
+        <field name="LCSC"/>
         <field name="Footprint">megamcu144:mega-mcu144</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen One MEGA_MCU144 Module</field>
@@ -286,6 +311,7 @@
       <property name="SUPPLIER 3" value="LCSC"/>
       <property name="SUPPLIER PART NUMBER 3" value=""/>
       <property name="TYPE" value="Module"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU144_0.7"/>
@@ -296,11 +322,13 @@
       <value>Module-vr-discrete-0.5</value>
       <footprint>vr-discrete:vr-discrete</footprint>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">vr-discrete:vr-discrete</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="vr-discrete" part="Module-vr-discrete-0.5" description=""/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -310,11 +338,13 @@
       <value>Module-vr-max9924-0.1</value>
       <footprint>vrmax9924:vr-max9924</footprint>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">vrmax9924:vr-max9924</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -325,11 +355,13 @@
       <footprint>power5_12:power_12and5V</footprint>
       <description>Hellen-One Power_12and5V Module</description>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">power5_12:power_12and5V</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen-One Power_12and5V Module</field>
       </fields>
       <libsource lib="power_12and5V" part="Module-power_12and5V-0.3" description="Hellen-One Power_12and5V Module"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -340,11 +372,13 @@
       <footprint>knock:knock</footprint>
       <description>Hellen-One Knock Pre-amplifier Module</description>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">knock:knock</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen-One Knock Pre-amplifier Module</field>
       </fields>
       <libsource lib="knock" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -355,11 +389,13 @@
       <footprint>can:can</footprint>
       <description>Hellen-One CAN Module</description>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">can:can</field>
         <field name="Datasheet"/>
         <field name="Description">Hellen-One CAN Module</field>
       </fields>
       <libsource lib="can" part="Module-can-0.1" description="Hellen-One CAN Module"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -369,11 +405,13 @@
       <value>Module-wbo-0.5</value>
       <footprint>wbo:wbo</footprint>
       <fields>
+        <field name="LCSC"/>
         <field name="Footprint">wbo:wbo</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="wbo" part="Module-wbo-0.5" description=""/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -384,11 +422,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -401,11 +441,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -418,11 +460,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -435,11 +479,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -452,11 +498,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C105872</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C105872"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -469,11 +517,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C105872</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C105872"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -486,11 +536,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -503,11 +555,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -520,11 +574,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -537,11 +593,13 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <description>Resistor</description>
       <fields>
+        <field name="LCSC">C4033814</field>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4033814"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -553,11 +611,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -567,11 +627,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -581,11 +643,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -595,11 +659,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -609,11 +675,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -623,11 +691,13 @@
       <value>~</value>
       <footprint>VNLD5090-E:VNLD5090-E</footprint>
       <fields>
+        <field name="LCSC">C222209</field>
         <field name="Footprint">VNLD5090-E:VNLD5090-E</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="VNLD5090-E" part="VNLD5090-E" description=""/>
+      <property name="LCSC" value="C222209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
