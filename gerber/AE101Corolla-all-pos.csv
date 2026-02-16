@@ -18,13 +18,14 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J1","175448-6","1754486",94.050000,86.050000,90.000000,top
 "J2","6437288-2","TE_6437288-2",14.500000,51.250000,-90.000000,top
 "J3","USB_C_Receptacle_USB2.0_14P","USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal",34.000000,3.750000,0.000000,top
+"J4","Conn_02x03_Counter_Clockwise","Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal",90.475000,70.700000,-90.000000,top
 "M1","Module-mega-mcu144-0.7","mega-mcu144",72.525001,60.675002,180.000000,top
 "M2","Module-vr-discrete-0.5","vr-discrete",69.975000,81.725000,-90.000000,top
 "M3","Module-vr-max9924-0.1","vr-max9924",58.650000,81.662500,-90.000000,top
 "M4","Module-power_12and5V-0.3","power_12and5V",9.374999,3.724999,0.000000,top
 "M5","Module-knock-0.2","knock",44.550000,81.650000,-90.000000,top
 "M6","Module-can-0.1","can",73.812499,13.668337,180.000000,top
-"M7","Module-wbo-0.5","wbo",96.100000,33.075000,90.000000,top
+"M7","Module-wbo-0.5","wbo",94.925000,30.775000,90.000000,top
 "R3","4.7k","R_0402_1005Metric",22.750000,45.500000,-90.000000,top
 "R4","4.7k","R_0402_1005Metric",25.000000,45.510000,-90.000000,top
 "R7","4.7k","R_0402_1005Metric",24.250000,31.750000,-90.000000,top

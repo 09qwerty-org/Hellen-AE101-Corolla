@@ -10,6 +10,7 @@
 "175448-6","J1","175448-6:1754486",""
 "6437288-2","J2","superseal_34:TE_6437288-2",""
 "USB_C_Receptacle_USB2.0_14P","J3","Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal",""
+"Conn_02x03_Counter_Clockwise","J4","Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal",""
 "Module-mega-mcu144-0.7","M1","megamcu144:mega-mcu144",""
 "Module-vr-discrete-0.5","M2","vr-discrete:vr-discrete",""
 "Module-vr-max9924-0.1","M3","vrmax9924:vr-max9924",""
