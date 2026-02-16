@@ -2546,6 +2546,203 @@
 				)
 			)
 		)
+		(symbol "Connector_Generic:Conn_02x02_Counter_Clockwise"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 1.27 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_02x02_Counter_Clockwise"
+				(at 1.27 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_2x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_02x02_Counter_Clockwise_1_1"
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 1.27)
+					(end 3.81 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 -2.413)
+					(end 2.54 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.81 0.127)
+					(end 2.54 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_02x03_Counter_Clockwise"
 			(pin_names
 				(offset 1.016) hide)
@@ -11544,6 +11741,16 @@
 		)
 		(uuid "1672e735-d106-4ea9-ae72-f41b964dc8ba")
 	)
+	(label "CAN2H"
+		(at 284.48 218.44 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18fed28d-be4a-4a4b-9a48-1994a8d0cee8")
+	)
 	(label "CAN1H"
 		(at 229.87 54.61 0)
 		(effects
@@ -11683,6 +11890,16 @@
 			(justify right bottom)
 		)
 		(uuid "2de5c997-1ed8-40b7-817e-66cb534a5f13")
+	)
+	(label "CAN2L"
+		(at 281.94 205.74 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e4953bf-899d-42a3-81c5-19d313ff8520")
 	)
 	(label "LS3_IN"
 		(at 91.44 171.45 0)
@@ -11833,16 +12050,6 @@
 			(justify right bottom)
 		)
 		(uuid "3ea1dd1e-2be9-483b-989d-790ae7f71173")
-	)
-	(label "CAN2H"
-		(at 88.9 234.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "40760966-9e88-4fea-87c2-0ae6d170f743")
 	)
 	(label "VR-"
 		(at 63.5 245.11 0)
@@ -12004,16 +12211,6 @@
 		)
 		(uuid "60225678-3028-46f6-adef-1893ed873fc6")
 	)
-	(label "CAN2L"
-		(at 88.9 232.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6087854b-5b8f-4b3b-adf5-adb94810c5fa")
-	)
 	(label "MISO3"
 		(at 229.87 41.91 0)
 		(effects
@@ -12103,6 +12300,16 @@
 			(justify right bottom)
 		)
 		(uuid "6989b565-ba6e-4a0e-ae9b-93297bb2c050")
+	)
+	(label "EGT-"
+		(at 281.94 218.44 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6d76fab3-74e8-4d3d-936d-17c7d230f285")
 	)
 	(label "SCK3"
 		(at 280.67 187.96 0)
@@ -12483,6 +12690,16 @@
 			(justify right bottom)
 		)
 		(uuid "b85dc1d4-30b9-472f-88dd-8817f931c9cb")
+	)
+	(label "EGT+"
+		(at 284.48 205.74 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ba041554-fffa-437a-bfb7-9ecb0729aedb")
 	)
 	(label "USB-"
 		(at 236.22 97.79 0)
@@ -14248,6 +14465,82 @@
 			(project "AE101Corolla"
 				(path "/70a65c1d-c703-4ce7-9653-99ac3171341d"
 					(reference "#PWR45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x02_Counter_Clockwise")
+		(at 284.48 210.82 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d178da9-ac41-4bf8-8908-4ff2345e9fbd")
+		(property "Reference" "J5"
+			(at 287.02 212.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_02x02_Counter_Clockwise"
+			(at 288.29 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5569-04A2_2x02_P4.20mm_Horizontal"
+			(at 284.48 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 284.48 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4f61123c-6edb-40ff-879c-253b2da9a6b0")
+		)
+		(pin "1"
+			(uuid "33172ebf-ad54-4ec3-8139-4642e9f0fc38")
+		)
+		(pin "2"
+			(uuid "4df6990d-ceda-484f-8642-e22c5959faec")
+		)
+		(pin "4"
+			(uuid "a86248f8-201c-434c-9865-a13e4b6a27b7")
+		)
+		(instances
+			(project ""
+				(path "/70a65c1d-c703-4ce7-9653-99ac3171341d"
+					(reference "J5")
 					(unit 1)
 				)
 			)
