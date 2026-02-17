@@ -7,6 +7,10 @@ R1,81.0mm,78.5mm,Bottom,90.0
 R2,83.75mm,78.51mm,Bottom,90.0
 R5,34.75mm,4.75mm,Bottom,90.0
 R6,33.75mm,4.75mm,Bottom,90.0
+R11,5.25mm,65.75mm,Bottom,90.0
+R12,1.5mm,65.75mm,Bottom,90.0
+R13,2.75mm,65.75mm,Bottom,90.0
+R14,4.0mm,65.75mm,Bottom,90.0
 U1,5.5mm,53.25mm,Bottom,0.0
 U2,5.5mm,59.25mm,Bottom,0.0
 U5,5.5mm,41.25mm,Bottom,0.0
@@ -21,7 +25,7 @@ J1,94.05mm,86.05mm,Top,90.0
 J2,14.5mm,51.25mm,Top,270.0
 J3,34.0mm,3.75mm,Top,0.0
 J4,90.475mm,70.7mm,Top,270.0
-J5,91.25mm,14.95mm,Top,270.0
+J5,90.725mm,15.1mm,Top,270.0
 R3,22.75mm,45.5mm,Top,270.0
 R4,25.0mm,45.51mm,Top,270.0
 R7,24.25mm,31.75mm,Top,270.0
