@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-E101-Corolla-PNP/hellen-E101-Corolla-PNP/AE101Corolla.kicad_sch</source>
-    <date>2026-02-16T08:38:16+0000</date>
+    <date>2026-02-17T03:28:45+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -678,6 +678,82 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>634a1dc3-e629-4f4a-85b5-9ffdf0cfcda6</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25900</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54888a1f-ec79-44e2-9aae-ceda6f509227</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25900</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98108a61-13f4-4e26-b4e2-30371c880880</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25900</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2391b2e-f089-4f59-ade7-75e109a6dd6b</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25900</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AE101Corolla.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bbe816c-9261-4c1c-a24d-b60d89c9df88</tstamps>
     </comp>
     <comp ref="U1">
       <value>~</value>
@@ -1476,11 +1552,11 @@
       <node ref="M7" pin="W3" pinfunction="CANL" pintype="passive"/>
     </net>
     <net code="16" name="/CAN2H">
-      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="M6" pin="S2" pinfunction="CANH" pintype="passive"/>
     </net>
     <net code="17" name="/CAN2L">
-      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="M6" pin="S1" pinfunction="CANL" pintype="passive"/>
     </net>
     <net code="18" name="/CHECKENGINE_IN">
@@ -1584,6 +1660,7 @@
     </net>
     <net code="40" name="/INJ1_IN">
       <node ref="M1" pin="E32" pinfunction="OUT_INJ6" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="IN1" pintype="input"/>
     </net>
     <net code="41" name="/INJ1_OUT">
@@ -1592,6 +1669,7 @@
     </net>
     <net code="42" name="/INJ2_IN">
       <node ref="M1" pin="E31" pinfunction="OUT_INJ5" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="IN2" pintype="input"/>
     </net>
     <net code="43" name="/INJ2_OUT">
@@ -1600,6 +1678,7 @@
     </net>
     <net code="44" name="/INJ3_IN">
       <node ref="M1" pin="E30" pinfunction="OUT_INJ4" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="IN1" pintype="input"/>
     </net>
     <net code="45" name="/INJ3_OUT">
@@ -1608,6 +1687,7 @@
     </net>
     <net code="46" name="/INJ4_IN">
       <node ref="M1" pin="E29" pinfunction="OUT_INJ3" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="IN2" pintype="input"/>
     </net>
     <net code="47" name="/INJ4_OUT">
@@ -1810,6 +1890,10 @@
       <node ref="M7" pin="G" pinfunction="GND" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
